@@ -94,6 +94,7 @@ We identified bug-fix commit using two approaches:
 53 projects information: [53ProjectsStats.csv](/Stats/53ProjectsStats.csv)
 
 **RQ1**
+- All Kendall Tau correlation values per repository: [RQ1-SLOCMeasures-CorrelationValuesPerRepo.csv](/Stats/RQ1/RQ1-SLOCMeasures-CorrelationValuesPerRepo.csv)
 - Cliff's delta effect size and Mann-Whitney U test of difference in correlation values of SLOC with \#Revisions and \#Bugs for all methods in 53 projects: [RQ1-SLOCMeasures-all-methods.csv](/Stats/RQ1/RQ1-SLOCMeasures-all-methods.csv)
 - Cliff's delta effect size and Mann-Whitney U test of correlation values of SLOC with \#Revisions and \#Bugs for methods modified at least once in 53 projects: [RQ1-SLOCMeasures-modified-methods.csv](/Stats/RQ1/RQ1-SLOCMeasures-modified-methods.csv)
 
