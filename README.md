@@ -99,6 +99,7 @@ We identified bug-fix commit using two approaches:
 - Cliff's delta effect size and Mann-Whitney U test of correlation values of SLOC with \#Revisions and \#Bugs for methods modified at least once in 53 projects: [RQ1-SLOCMeasures-modified-methods.csv](/Stats/RQ1/RQ1-SLOCMeasures-modified-methods.csv)
 
 **RQ2**
+- All kendall Tau correlation values per repository of SLOC with revisions and bug density: [RQ2-SLOCControl-CorrelationValuesPerRepo.csv](Stats/RQ2/RQ2-SLOCControl-CorrelationValuesPerRepo.csv)
 - Cliff's delta value and Mann-Whitney U test of the difference in revision and bug density between small, medium and large methods: [RQ2-SLOCControl-getSet.csv](/Stats/RQ2/RQ2-SLOCControl-getSet.csv)
 
 **RQ3**
