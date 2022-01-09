@@ -1,5 +1,5 @@
 The dataset.zip file contains 2 folders: `repo-data` and `repo-bug-data`
-The `scripts` folder contains all the source code use to process data and generate the graphs.
+The `scripts` folder contains all the source code used to process data and generate the graphs.
 
 ## repo-data 
 This folder contains 53 `.json` files, each belonging to one of the 53 Java open-source projects.
