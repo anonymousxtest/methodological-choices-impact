@@ -3,10 +3,9 @@ import tarfile
 from abc import ABC, abstractmethod
 from pathlib import Path
 
-from src.Final.Util import Util
-from src.Final.constants import Constants
-from src.brittletest.FileUtil import FileUtil
-from src.thesis.DupsTracker import DupsTracker
+from constants import Constants
+from FileUtil import FileUtil
+from DupsTracker import DupsTracker
 import gc
 import signal
 from os import path
