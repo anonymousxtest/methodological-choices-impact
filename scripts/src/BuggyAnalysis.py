@@ -3,9 +3,9 @@ import csv
 import pandas as pd
 from matplotlib import pyplot as plt
 
-from src.Final.AbstractReader import AbstractReader
-from src.Final.FileUtil import FileUtil
-from src.Final.constants import Constants
+from AbstractReader import AbstractReader
+from FileUtil import FileUtil
+from constants import Constants
 import seaborn as sns
 
 
